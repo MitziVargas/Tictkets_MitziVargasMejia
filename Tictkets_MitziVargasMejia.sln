@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tictkets_MitziVargasMejia", "Tictkets_MitziVargasMejia\Tictkets_MitziVargasMejia.csproj", "{52EB85E0-7270-4DBC-BDFC-CFAA39C8F60D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{00C799DC-2810-4127-9D98-FA92C42591EB} = {00C799DC-2810-4127-9D98-FA92C42591EB}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{00C799DC-2810-4127-9D98-FA92C42591EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52EB85E0-7270-4DBC-BDFC-CFAA39C8F60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52EB85E0-7270-4DBC-BDFC-CFAA39C8F60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52EB85E0-7270-4DBC-BDFC-CFAA39C8F60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52EB85E0-7270-4DBC-BDFC-CFAA39C8F60D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00C799DC-2810-4127-9D98-FA92C42591EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C799DC-2810-4127-9D98-FA92C42591EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C799DC-2810-4127-9D98-FA92C42591EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C799DC-2810-4127-9D98-FA92C42591EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C05C67D6-6B0C-478F-A5FB-31DED1067D5B}
+	EndGlobalSection
+EndGlobal
